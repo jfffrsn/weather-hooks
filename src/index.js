@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import useLocation from "./useLocation";
 import ReactDOM from "react-dom";
 import SeasonDisplay from "./SeasonDisplay";
